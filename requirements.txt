@@ -5,3 +5,5 @@ langchain-community
 langchain-classic
 wikipedia
 duckduckgo-search
+ddgs
+
